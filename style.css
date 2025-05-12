@@ -1,0 +1,52 @@
+.flex-kontejner {
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+.blok1 {
+    
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 5px solid black;
+background-color: yellow;
+}
+.blok2 {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 5px solid black;
+    background-color: lightpink;
+}
+.blok3 {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 5px solid black;
+    background-color: lightblue;
+}
+.blok4 {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 5px solid black;
+    background-color: lightgray;
+}
+.blok5 {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 5px solid black;
+    border-style: dashed;
+    background-color: lightgray;
+}
+.button {
+    background-color: blue; /* Green */
+    border-radius: 20px;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(1, 100, 200);
+    font-family: Arial, sans-serif;
+  }
